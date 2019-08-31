@@ -8,13 +8,9 @@
 </head>
 <body>
 
-4시 20분 변경
+<h1>yurim.jsp</h1>
+test!
 
-
-4시 24분 변경
-
-
-4시 31분 변경
-
+수정
 </body>
 </html>
