@@ -7,14 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-4시 20분 변경
-
-
-4시 24분 변경
-
-
-4시 31분 변경
-
+<h3>무서워..</h3>
 </body>
 </html>
