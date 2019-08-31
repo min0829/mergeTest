@@ -1,5 +1,7 @@
 package bit.com.a.master.commmon;
 
-public class Common {
+public class CommonImpl {
 
+	
+	
 }
